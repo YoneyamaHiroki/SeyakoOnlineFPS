@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Seyako Online 11",
+"productVersion": "1.0",
+"dataUrl": "SeyakoOnlineFPS.data.unityweb",
+"asmCodeUrl": "SeyakoOnlineFPS.asm.code.unityweb",
+"asmMemoryUrl": "SeyakoOnlineFPS.asm.memory.unityweb",
+"asmFrameworkUrl": "SeyakoOnlineFPS.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.6f1"
+}
